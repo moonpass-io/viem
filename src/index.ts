@@ -1079,6 +1079,7 @@ export {
   type HashTypedDataReturnType,
   hashDomain,
   hashTypedData,
+  hashStruct,
 } from './utils/signature/hashTypedData.js'
 export {
   type CompactSignatureToSignatureErrorType,
